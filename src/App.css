@@ -1,0 +1,70 @@
+.banner_content img{
+  width: 100%;
+  height: 850px;
+}
+
+.logoNav{
+  padding-left: 230px;
+  font-size: 28px;
+}
+
+.homeNav{
+  margin-left: 330px;
+}
+
+.AboutNav{
+margin-left: 25px;
+}
+
+.ContNav{
+  margin-left: 25px;
+}
+
+.proNav{
+  margin-left: 25px;
+}
+
+.banner_content {
+  position: relative;
+}
+
+.text_overlay {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white; /* Set the text color */
+}
+
+.text_overlay h1 {
+  font-family: serif;
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+.text_overlay p {
+  font-size: 20px;
+}
+
+.aboutText{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 45px;
+  text-align: center;
+}
+
+.progress .UI_UX{
+  width:96%;
+}
+
+#navbarSupportedContent a{
+  text-decoration: none;
+  color: black;
+  color: rgb(183, 215, 215);
+  font-size: 18px;
+}
+
+#LogoName{
+  font-size: 30px;
+  color: white;
+}
