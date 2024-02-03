@@ -99,7 +99,7 @@ const About = () => {
                   </div>
                 </div>
                 <div class="progress-wrapper wow fadeInUp">
-                  <span class="caption">Boostrap</span>
+                  <span class="caption">Boosttrap</span>
                   <div class="progress">
                     <div
                       class="progress-bar"
