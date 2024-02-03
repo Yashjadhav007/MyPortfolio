@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
 
 const Footer = () => {
   return (
     <div>
- 
       <div class="vg-footer">
         <h1 class="text-center">YashJadhav</h1>
         <div class="container">
@@ -23,16 +22,20 @@ const Footer = () => {
                 <hr class="divider" />
                 <ul class="list-unstyled">
                   <li>
-                    <a href="#">Instagram</a>
+                    <a href="https://www.instagram.com/_yash36_/">Instagram</a>
                   </li>
                   <li>
-                    <a href="#">Facebook</a>
+                    <a href="https://m.facebook.com/profile.php/?id=100009035348098">
+                      Facebook
+                    </a>
                   </li>
                   <li>
-                    <a href="#">Twitter</a>
+                    <a href="https://www.linkedin.com/in/yash-jadhav-65466414b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                      LinkedIN
+                    </a>
                   </li>
                   <li>
-                    <a href="#">Youtube</a>
+                    <a href="https://github.com/Yashjadhav007">GitHub</a>
                   </li>
                 </ul>
               </div>
@@ -44,7 +47,7 @@ const Footer = () => {
                 <ul class="list-unstyled">
                   <li>yashjadhav596@gmail.com</li>
                   <li>+91 7020628566</li>
-                  <li>+91 9999999999</li>
+              
                 </ul>
               </div>
             </div>
@@ -71,14 +74,14 @@ const Footer = () => {
             </div>
             <div class="col-12">
               <p class="text-center mb-0 mt-4">
-                Copyright &copy;2024. All right reserved 
+                Copyright &copy;2024. All right reserved
               </p>
             </div>
           </div>
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
